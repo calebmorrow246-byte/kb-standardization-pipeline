@@ -1,0 +1,10 @@
+*.log
+.env
+export/
+cleaned/
+converted/
+final/
+review/
+backups/
+assets/
+archive/
